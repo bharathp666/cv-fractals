@@ -1,0 +1,1 @@
+A selection of fractal generation algorithms. Presently they compile on anything with the OpenCV libraries installed.
